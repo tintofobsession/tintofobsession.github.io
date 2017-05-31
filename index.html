@@ -30,10 +30,10 @@ layout: compress
     <header class="header">
         <h1>{{ site.title }}</span></h1>
         <nav class="links">
-            <!--a href="#"><i class="fa fa-twitter-square fa-3x"></i></a-->
+            {% if site.social.twitter %}<a href="#"><i class="fa fa-twitter-square fa-3x"></i></a>{% endif %}
             <a href="{{site.social.instagram}}"><i class="fa fa-instagram fa-3x"></i></a>
             <a href="{{site.social.facebook}}"><i class="fa fa-facebook-square fa-3x"></i></a>
-            <!--a href="#"><i class="fa fa-tumblr-square fa-3x"></i></a-->
+            {% if site.social.tumblr %}<a href="#"><i class="fa fa-tumblr-square fa-3x"></i></a>{% endif %}
         </nav>
     </header>
     <div class="content">
@@ -42,6 +42,7 @@ layout: compress
         <!-- cards -->
         <div class="wrapper">
             {% for post in site.posts %}
+						{% if post.draft == false || post.draft == null %}
             <div class="card" data-id="{{ post.id }}">
                 <div class="card__container card__container--closed">
                     <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
@@ -72,6 +73,7 @@ layout: compress
                     </div>
                 </div>
             </div>
+						{% endif %}
             {% endfor %}
             <!-- /cards -->
         </div>
