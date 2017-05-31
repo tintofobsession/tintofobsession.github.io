@@ -5,7 +5,6 @@ keywords: Beauty, Blog, tintofobsession, tint, of, obsession
 author: Rashmi Jey
 baseurl: ""
 url: "tintofobsession.com" 
-
 social:
-	facebook: http://facebook.com/tintofobsession
-	instagram: http://instagram.com/tintofobsession
+  facebook: "http://facebook.com/tintofobsession"
+  instagram: "http://instagram.com/tintofobsession"
