@@ -1,10 +1,12 @@
 # Site settings
 title: Tint of Obsession
-description: 
+description: Beauty | Fashion | Food | Lifestyle
 keywords: Beauty, Blog, tintofobsession, tint, of, obsession
 author: Rashmi Jey
 baseurl: ""
-url: "tintofobsession.com" 
+url: "tintofobsession.com"
 social:
   facebook: "http://facebook.com/tintofobsession"
   instagram: "http://instagram.com/tintofobsession"
+  email: "mailto:tintofobsession@rashjey.com"
+font: "font-awesome"

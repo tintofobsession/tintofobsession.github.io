@@ -15,6 +15,7 @@ layout: compress
     <link rel="stylesheet" type="text/css" href="css/normalize.css"/>
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.css"/>
     <link rel="stylesheet" type="text/css" href="css/modern-blog.css"/>
+    <link rel="stylesheet" type="text/css" href="css/custom.css"/>
     <!--[if IE]>
     <script type="text/javascript" src="js/vendors/html5.min.js"></script>
     <![endif]-->
@@ -33,6 +34,7 @@ layout: compress
             <!--a href="#"><i class="fa fa-twitter-square fa-3x"></i></a-->
             <a href="{{site.social.instagram}}"><i class="fa fa-instagram fa-3x"></i></a>
             <a href="{{site.social.facebook}}"><i class="fa fa-facebook-square fa-3x"></i></a>
+            <a href="{{site.social.email}}"><i class="fa fa-envelope fa-3x"></i></a>
             <!--a href="#"><i class="fa fa-tumblr-square fa-3x"></i></a-->
         </nav>
     </header>
@@ -44,6 +46,7 @@ layout: compress
             {% for post in site.posts %}
             <div class="card" data-id="{{ post.id }}">
                 <div class="card__container card__container--closed">
+                    <!-- this svg bit about the cool animation when you open a post -->
                     <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
                          xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1200"
                          preserveAspectRatio="xMidYMid slice">
@@ -56,17 +59,22 @@ layout: compress
                                xlink:href="{{ post.image }}"></image>
                     </svg>
                     <div class="card__content">
+                        <!-- this is the actual body of the post -->
                         <i class="card__btn-close fa fa-times"></i>
                         <div class="card__caption">
-                            <h2 class="card__title">{{ post.title }}</h2>
-                            <p class="card__subtitle">{{ post.subtitle }}</p>
+                            <h2 class="card__title">{{ post.title }}</h2> <!-- the post title -->
+                            <p class="card__subtitle">{{ post.subtitle }}</p> <!-- the post subtitle -->
                         </div>
                         <div class="card__copy">
                             <div class="meta">
+                                {% if post.avatar %}
                                 <img class="meta__avatar" src="{{ post.avatar }}"/>
-                                <span class="meta__author">{{ post.author }}</span>
-                                <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                                <!-- if there is an avatar (a picture of you or a little image), it goes in here -->
+                                {% endif %}
+                                <span class="meta__author">{{ post.author }}</span> <!-- your name appears here -->
+                                <span class="meta__date">{{ post.date | date: "%b %d, %y" }}</span> <!-- and the date -->
                             </div>
+                            <!-- the actual main content of the post -->
                             {{ post.content }}
                         </div>
                     </div>
