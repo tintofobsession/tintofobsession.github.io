@@ -11,9 +11,9 @@ What I bought at the Deciem shop in Old Spitafields Market.
 
 Since there is so much to talk about for these products, I will do a separate post on each product so people can just look at what they're interested in. This is just a brief summary of what I bought, so if you're interested in specific products, watch out for them here or on my Instagram (@tintofobsession).
 
-After finally finishing my end of year exams at university, I was craving a haul. All the late night snacking, sleep deprivation and the stress made my skin. Having to focus solely on work also meant that I was slacking a little on my skincare routine (awful, I know).
+After finally finishing my end of year exams at university, I was craving a haul. All the late night snacking, sleep deprivation and the stress made my skin very unhappy. Having to focus solely on work also meant that I was slacking a little on my skincare routine (awful, I know).
 
-I was always using non-rinsing cleansers so, although I didn't wear much makeup, my skin didn't get as much of deep a cleanse as it needed. So I bought some peeling/ regenerative treatments which hopefully will salvage my skin and soon give me a summer glow!
+I was always using wipe off cleansers so, although I didn't wear much makeup, my skin didn't get as much of deep a cleanse as it needed. So I bought some peeling/ regenerative treatments which hopefully will salvage my skin and soon give me a summer-ready glow!
 
 ![resize](img/DeciemHaul-05-06-2017/IMG_6558.JPG)
 
@@ -32,4 +32,8 @@ The Ordinary Advanced Retinoid 2% - A Stable Emulsion of Next-Generation Forms o
 NIOD LIP BIO-LIPID CONCENTRATE - I heard about this non-invasive lip plumping alternative to lip fillers and I am super intrigued to find out how well it works - £38
 ![resize](img/DeciemHaul-05-06-2017/IMG_6552.JPG)
 
-So overall I do think I bought a fair few things which did leave a massive dent in my poor student wallet but don't hauls always do? Aren't they always worth it in the end?
+So overall I do think I bought a fair few things which did leave a massive dent in my poor student wallet but don't hauls always do? Aren't they always worth it in the end? Let me know your thoughts and comments by email or DM me on Instagram! I really hope to hear from you guys. Also stay tuned for my future posts, I intend to post regularly!
+
+I have built this website on my own so please be kind and let me know if something is wrong.
+
+Here is the Deciem website for those who are interested in further reading/ information: http://deciem.com/
