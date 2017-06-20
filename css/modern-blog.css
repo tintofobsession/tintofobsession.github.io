@@ -99,6 +99,7 @@
 	/* color: #777778; */
 	color: #242424;
 	font-family: 'Amatic SC', cursive;
+	padding-bottom: 1.5em;/
 }
 
 .card__container--closed .card__subtitle {
@@ -110,7 +111,7 @@
 	font-size: 1.25em;
 	max-width: 900px;
 	margin: 0 auto;
-	padding: 25px 30px 100px;
+	padding: 10px 30px 100px;
 	color: #3b393d;
 }
 
@@ -128,7 +129,8 @@
 }
 
 .meta {
-	font-size: .85em;
+	font-size: 1.2em;
+	font-family: 'Amatic SC', cursive;
 	display: -webkit-flex;
 	display: flex;
 	padding: 0 0 35px 0;
@@ -146,8 +148,7 @@
 .meta__author {
 	font-weight: bold;
 	padding: 0 15px;
-	font-family: 'Amatic SC', cursive;
-	font-size: 1.5em;
+	font-size: 1.2em;
 }
 
 .meta__date {
