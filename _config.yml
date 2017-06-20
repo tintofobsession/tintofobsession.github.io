@@ -1,12 +1,12 @@
 # Site settings
 title: Tint of Obsession
-description:
-keywords: Beauty, Blog, tintofobsession, tint, of, obsession
+description: Beauty | Fashion | Food | Lifestyle
+keywords: Beauty, Blog, tintofobsession, tint, of, obsession, deceim, ordinary, serum foundation, serum, foundation, retinol, best, retinoid, lactic acid, hydralaunic acid, niod, hylamide, makeup, eyeshadow, eyeliner, smoky eye, skincare, skincare routine, routine, acne, acid, acid peeling, peeling, peel, glycolic, facial
 author: Rashmi Jey
 baseurl: ""
 url: "tintofobsession.com"
 social:
   facebook: "http://facebook.com/tintofobsession"
   instagram: "http://instagram.com/tintofobsession"
-  twitter:
-  tumblr:
+  email: "mailto:tintofobsession@rashjey.com"
+font: "font-awesome"
