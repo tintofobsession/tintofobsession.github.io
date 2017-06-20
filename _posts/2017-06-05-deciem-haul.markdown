@@ -1,13 +1,10 @@
 ---
 title: "Deciem Haul"
-subtitle: ""
+subtitle: "What I bought at the Deciem shop in Old Spitafields Market."
 author: "Rashmi Jey"
 avatar: "img/DeciemHaul-05-06-2017/IMG_6154.JPG"
 image: "img/DeciemHaul-05-06-2017/IMG_6556.JPG"
 ---
-# Deciem Haul
-
-What I bought at the Deciem shop in Old Spitafields Market.
 
 Since there is so much to talk about for these products, I will do a separate post on each product so people can just look at what they're interested in. This is just a brief summary of what I bought, so if you're interested in specific products, watch out for them here or on my Instagram (@tintofobsession).
 
