@@ -65,7 +65,7 @@ layout: compress
                         <i class="card__btn-close fa fa-times"></i>
                         <div class="card__caption">
                             <h2 class="card__title" style="color:black">{{ post.title }}</h2> <!-- the post title -->
-                            <!--p class="card__subtitle">{{ post.subtitle }}</p> <!-- the post subtitle -->
+                            <!--p class="card__subtitle">{{ post.subtitle }}</p> < the post subtitle -->
                         </div>
                         <div class="card__copy">
                             <p class="card__subtitle">{{ post.subtitle }}</p> <!-- the post subtitle -->
@@ -79,6 +79,29 @@ layout: compress
                             </div>
                             <!-- the actual main content of the post -->
                             {{ post.content }}
+
+<!-- DISQUS COMMENTS HERE. DO NO EDIT THIS -->
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+
+var disqus_config = function () {
+this.page.url = 'http://tintofobsession.com';  /* Replace PAGE_URL with your page's canonical URL variable */
+this.page.identifier = '{{post.title}}'; /* Replace PAGE_IDENTIFIER with your page's unique identifier variable */
+};
+
+(function() { /* DON'T EDIT BELOW THIS LINE */
+var d = document, s = d.createElement('script');
+s.src = 'https://tintofobsession.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
                         </div>
                     </div>
                 </div>
