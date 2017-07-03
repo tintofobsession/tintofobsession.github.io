@@ -2,7 +2,7 @@
 title: "Deciem Haul"
 subtitle: "What I bought at the Deciem shop in Old Spitafields Market."
 author: "Rashmi Jey"
-avatar: "img/DeciemHaul-05-06-2017/IMG_6154.JPG"
+avatar: "img/authors/IMG_6154.JPG"
 image: "img/DeciemHaul-05-06-2017/IMG_6556.JPG"
 ---
 
