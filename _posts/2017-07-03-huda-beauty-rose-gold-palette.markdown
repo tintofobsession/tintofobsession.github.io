@@ -3,7 +3,7 @@ title: "Review: Huda Beauty Rose Gold Palette"
 subtitle: "Heres what I thought about the Textured Shadows palette by Huda Kattan"
 author: "Rashmi Jey"
 avatar: "img/authors/IMG_6154.JPG"
-image: "img/Review-HudaBeautyRoseGold/overallshot-hudarosegold.jpg"
+image: "img/Review-HudaBeautyRoseGold/thumbnail.jpg"
 ---
 
 Yes, I gave in to the pressure of Instagram, don’t we all.  I felt like I had enough eyeshadow palettes (is there such a thing?) but I simply could not resist the range of shades and the endless makeup looks all of Instagram seemed to be able to produce from it .
