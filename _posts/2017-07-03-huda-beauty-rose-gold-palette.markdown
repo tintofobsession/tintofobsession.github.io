@@ -3,7 +3,7 @@ title: "Review: Huda Beauty Rose Gold Palette"
 subtitle: "Heres what I thought about the Textured Shadows palette by Huda Kattan"
 author: "Rashmi Jey"
 avatar: "img/authors/IMG_6154.JPG"
-image: "img/Review-HudaBeautyRoseGold/overallshot-hudarosegold.JPG"
+image: "img/Review-HudaBeautyRoseGold/overallshot-hudarosegold.jpg"
 ---
 
 Yes, I gave in to the pressure of Instagram, don’t we all.  I felt like I had enough eyeshadow palettes (is there such a thing?) but I simply could not resist the range of shades and the endless makeup looks all of Instagram seemed to be able to produce from it .
@@ -14,7 +14,7 @@ When my delivery arrived, I was rather underwhelmed by the packaging. For a pale
 
 However, I swatched them and my concerns about packaging were instantly forgotten (you can see why). The palette was such a pleasure to swatch and the pressed glitter shades are incredible. I discovered how much they actually stuck to skin once applied. Being a low maintenance makeup kinda girl this is so exciting to me. I love when I don’t feel like my eyeshadow has disappeared in the middle of the day and I might have to top it up. Although I was slightly concerned swatching the matte shades because they didn’t show up as strongly, it is important to note that sometimes matte shades don’t swatch as well as shimmer shades because they generally have a finer texture. In such cases it is much more useful to actually try the shades as an eyeshadow and that is what I did.  They went on the lid beautifully (over some concealer and setting powder) and the colours really are very pigmented and long lasting.  
 
-![resize](img/Review-HudaBeautyRoseGold/swatches-hudarosegold.JPG)
+![resize](img/Review-HudaBeautyRoseGold/swatches-hudarosegold.jpg)
 
 So what's the catch you ask? Here are some pros and cons so you could decide for yourself.
 
@@ -36,7 +36,7 @@ So what's the catch you ask? Here are some pros and cons so you could decide for
 
 Here is a #nofilter close up for you to get a close look at the shades.
 
-![resize](img/Review-HudaBeautyRoseGold/FullSizeRender.JPG)
+![resize](img/Review-HudaBeautyRoseGold/FullSizeRender.jpg)
 
 #### So is it worth £56?
 This palette is particularly great if you are a beginner looking for a warm toned palette because the colours show up so well and there are just enough colours to experiment with but not so many that it is intimidating. Also since there are so many tutorials on Instagram and YouTube for this palette, you are unlikely to run out of ideas for a while.
